@@ -1,6 +1,6 @@
 {
   "name": "@rulesgen/rulesgen",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Generate AI coding assistant rules files from your codebase",
   "type": "module",
   "bin": {
@@ -11,6 +11,12 @@
   "engines": {
     "node": ">=20.0.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rulesgen/rulesgen"
+  },
+  "homepage": "https://github.com/rulesgen/rulesgen#readme",
+  "license": "MIT",
   "keywords": ["claude", "cursor", "copilot", "ai", "rules", "CLAUDE.md", "cursorrules"],
   "scripts": {
     "build": "tsc",
