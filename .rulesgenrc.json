@@ -1,0 +1,27 @@
+{
+  "version": "1",
+  "tools": [
+    "claude",
+    "cursor",
+    "copilot"
+  ],
+  "depth": "standard",
+  "focus": "",
+  "ignore": [
+    "**/*.test.ts",
+    "**/fixtures/**",
+    "**/node_modules/**"
+  ],
+  "output": ".",
+  "merge": false,
+  "dashboard": {
+    "token": "",
+    "projectId": ""
+  },
+  "customSections": {
+    "claude": [],
+    "cursor": [],
+    "copilot": [],
+    "windsurf": []
+  }
+}
