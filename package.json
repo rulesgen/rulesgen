@@ -1,6 +1,6 @@
 {
-  "name": "rulesgen",
-  "version": "0.1.0",
+  "name": "@rulesgen/rulesgen",
+  "version": "0.1.1",
   "description": "Generate AI coding assistant rules files from your codebase",
   "type": "module",
   "bin": {
